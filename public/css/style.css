@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+.fa-star {
+  color: #e8c100;
+}
+.fa-reply {
+  color: #17a2b8;
+}
+.header_table {
+  font-family: 'Merriweather', serif;
+  font-size: 14px !important;
+}
+.content_table {
+  font-family: 'Merriweather', serif;
+  font-size: 12px !important;
+}
